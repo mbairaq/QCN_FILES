@@ -1,1 +1,2 @@
-# QCN_FILES
+# Qualcomm Calibration Network files.
+
